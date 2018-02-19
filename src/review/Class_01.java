@@ -65,7 +65,7 @@ public class Class_01 {
 		}
 	}
 
-	public static void For_Loop() {//For分によるループ
+	public static void For_Loop() {//Forによるループ
 		for(int i=1; i<=10; i++) {
 			System.out.println("Loop count:" + i);
 		}
