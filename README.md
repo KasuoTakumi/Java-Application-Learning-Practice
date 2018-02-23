@@ -6,6 +6,10 @@ Javaを使った応用的なアプリケーション作成の土台となる勉�
 本リポジトリは[Java 第2版 実践編 アプリケーション作りの基本(Amazon.com)](https://www.amazon.co.jp/dp/4798151831/ref=cm_sw_r_tw_dp_U_x_zIfIAbSWNBVV9)を参考にしながら作成しています。
 質問や急ぎにメッセージは[Twitter](https://twitter.com/kasuotakumi)へお願いします。
 
+## 環境
+Eclipse Oxygen.2 (4.7.2)  
+Java SE 8
+
 ## 内容
 0. 復習
 1. API等の利用
